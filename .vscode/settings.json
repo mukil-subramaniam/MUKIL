@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "dart.hotReloadOnSave": "manual",
+    "dart.flutterGenerateLocalizationsOnSave": "manual",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

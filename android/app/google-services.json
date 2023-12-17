@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275920079043",
+    "project_id": "tutfinder-91e8a",
+    "storage_bucket": "tutfinder-91e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275920079043:android:99aa7c6b9cd873fb603a76",
+        "android_client_info": {
+          "package_name": "com.example.tutfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcM8OG6RwbTnmJ16dH_NT5CZVAzIZ4IfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
