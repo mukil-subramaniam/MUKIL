@@ -11,7 +11,7 @@ class AboutPage extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         leading: IconButton(
-          icon: Icon(Icons.arrow_back),
+          icon: Icon(Icons.arrow_back_ios_new),
           onPressed: () {
             Get.back(result: Homepage());
           },

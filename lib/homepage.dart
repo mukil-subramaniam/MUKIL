@@ -7,15 +7,8 @@ import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:get/get.dart';
 
-String? ans;
-
 class Homepage extends StatelessWidget {
   const Homepage({Key? key}) : super(key: key);
-
-  void display(String value) {
-    print(value);
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
