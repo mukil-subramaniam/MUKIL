@@ -85,7 +85,6 @@ class ProfileMenuWidget extends StatelessWidget {
   const ProfileMenuWidget({
     super.key,
   });
-
   @override
   Widget build(BuildContext context) {
     return ListTile(

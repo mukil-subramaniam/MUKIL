@@ -1,26 +1,36 @@
 {
   "project_info": {
-    "project_number": "275920079043",
-    "project_id": "tutfinder-91e8a",
-    "storage_bucket": "tutfinder-91e8a.appspot.com"
+    "project_number": "32499502256",
+    "project_id": "tutfinder-addb6",
+    "storage_bucket": "tutfinder-addb6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:275920079043:android:99aa7c6b9cd873fb603a76",
+        "mobilesdk_app_id": "1:32499502256:android:b8eb9de384b48bea707f75",
         "android_client_info": {
           "package_name": "com.example.tutfinder"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "32499502256-ua6ptu34v3ds2qjtggg49kafbdrvodl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAcM8OG6RwbTnmJ16dH_NT5CZVAzIZ4IfU"
+          "current_key": "AIzaSyBb4aSQYMDsW2zcclYDZeHzdgbArRZm1Z8"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32499502256-ua6ptu34v3ds2qjtggg49kafbdrvodl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
