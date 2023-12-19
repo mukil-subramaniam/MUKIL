@@ -1,5 +1,5 @@
 //import 'package:TutFinder/homepage.dart';
-import 'package:TutFinder/loginpage.dart';
+import 'package:TutFinder/screen/signin.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -14,7 +14,7 @@ class Splashscreen extends StatelessWidget {
           'TutFῐnder',
           style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
         ),
-        nextScreen: MyLogin(),
+        nextScreen: SigninScreen(),
         splashTransition: SplashTransition.fadeTransition,
         backgroundColor: Colors.white,
         duration: 4000,
