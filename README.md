@@ -1,5 +1,5 @@
-<div style="background-color: black; color: white; padding: 20px;">
 # Hi there, I'm Mukil 👋
+
 ## 👨‍💻 About Me
 I'm a **MERN stack developer** and **App developer** passionate about building efficient and scalable applications.  
 Currently seeking **job opportunities** where I can apply my skills and contribute to innovative projects.
@@ -53,9 +53,11 @@ Currently seeking **job opportunities** where I can apply my skills and contribu
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mukil-s-91a38a259/?originalSubdomain=in))
+- [LinkedIn](https://www.linkedin.com/in/mukil-s-91a38a259/?originalSubdomain=in)
 - Email: mukil4058@gmail.com
 
 ---
 
 Thank you for visiting! ✨
+
+</div>
