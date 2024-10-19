@@ -1,22 +1,61 @@
-👋 Hey there, I'm [MUKIL]! 
+<div style="background-color: black; color: white; padding: 20px;">
+# Hi there, I'm Mukil 👋
+## 👨‍💻 About Me
+I'm a **MERN stack developer** and **App developer** passionate about building efficient and scalable applications.  
+Currently seeking **job opportunities** where I can apply my skills and contribute to innovative projects.
 
-📱 I'm a passionate mobile app developer with a love for creating intuitive and user-friendly applications that make people's lives easier. Whether it's iOS or Android, I've got you covered.
+---
 
-🚀 I specialize in:
+## 🛠️ Technologies & Tools
 
-- **iOS Development:** Crafting elegant and responsive apps for Apple devices using Swift and Objective-C.
+### Languages:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **Android Development:** Building versatile and smooth Android apps using Java and Kotlin.
+### Frameworks & Libraries:
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-- **Cross-Platform Development:** Leveraging Flutter and React Native for efficient cross-platform development.
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🔧 I'm all about:
+---
 
-- Clean, maintainable code.
-- Eye-catching user interfaces.
-- Continuous improvement and learning.
+## 💡 Additional Skills
 
-🌟 I've had the privilege of working on various projects, from simple utilities to complex, feature-rich applications. My goal is to create software that not only functions flawlessly but also delights users.
+### Flutter:
+- Cross-platform mobile apps for Android and iOS.
+- **State management** (Provider, Riverpod).
+- Integration of **REST APIs** and Firebase services.
 
-🌐 When I'm not coding, you can find me exploring the latest tech trends, experimenting with new app ideas, or sharing my knowledge with the development community on GitHub and beyond.
+### Java:
+- Strong foundation in **OOP principles**.
+- Experience with **enterprise applications**.
+- Proficient in **Spring Boot** for web services.
 
+### MERN Stack:
+- Full-stack development: **React** (frontend), **Node.js** & **Express** (backend), **MongoDB** (databases).
+- Proficient with **JWT authentication** and building **RESTful APIs**.
+- **Redux** for state management.
+
+---
+
+## 🌱 Currently Learning
+- Advanced backend technologies and cloud integration.
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mukil-s-91a38a259/?originalSubdomain=in))
+- Email: mukil4058@gmail.com
+
+---
+
+Thank you for visiting! ✨
